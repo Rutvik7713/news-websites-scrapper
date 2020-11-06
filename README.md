@@ -11,7 +11,7 @@ First step was to get website url which we want to get data from. Then use beaut
 **Output:**
 
 Screenshot of website from where data would be fetched:
-![image](Output/newspaper.png)
+![image](/Output/newspaper.PNG)
 
 Screenshot of json file in which data has been stored:
 
