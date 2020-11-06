@@ -14,5 +14,4 @@ Screenshot of website from where data would be fetched:
 ![image](/Output/newspaper.PNG)
 
 Screenshot of json file in which data has been stored:
-
-
+![image](/Output/json_output_file.PNG)
